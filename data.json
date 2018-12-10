@@ -1,0 +1,97 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "A random quote generator to practice iteration and basic JavaScript concepts. Quote and background are chosen at random via timer or button press.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://tottendc.github.io/project1/",
+      "github_link": "https://github.com/TottenDC/project1",
+      "image_urls": [
+        "./img/proj1Main.jpg",
+        "./img/proj1Ex1.jpg",
+        "./img/proj1Ex2.jpg",
+        "./img/proj1Ex3.jpg"
+      ]
+    },
+    {
+      "id": 1,
+      "project_name": "Pagination and Filter Exercise",
+      "description": "Utilizes progress enchancement and unobtrusive JavaScript to create a user-friendly directory. Code works with any number of students to generate pages and display 10 at a time. Search bar actively filters students during typing.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://tottendc.github.io/project2/",
+      "github_link": "https://github.com/TottenDC/project2",
+      "image_urls": [
+        "./img/proj2Main.jpg",
+        "./img/proj2Ex1.jpg",
+        "./img/proj2Ex2.jpg",
+        "./img/proj2Ex3.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive JS Form",
+      "description": "Make sure you sign up for the JavaScript Conference! This project practices HTML form elements and associated JavaScript to create a friendly user-experience. Error messages will appear if any field is left blank upon submission, and radio buttons will disable competing time slots to ensure users will not sign up for overlapping programs.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://tottendc.github.io/project3/",
+      "github_link": "https://github.com/TottenDC/project3",
+      "image_urls": [
+        "./img/proj3Main.jpg",
+        "./img/proj3Ex1.jpg",
+        "./img/proj3Ex2.jpg",
+        "./img/proj3Ex3.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "Phrase Hunter",
+      "description": "'Hangman'-inspired web game that utilizes object-oriented JavaScript. Try to guess the phrase with fewer than 5 missed letters! Phrase is randomly generated each game from a local array.",
+      "technologies": [
+        "Object-oriented JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "live_link": "https://tottendc.github.io/project4/",
+      "github_link": "https://github.com/TottenDC/project4",
+      "image_urls": [
+        "./img/proj4Main.jpg",
+        "./img/proj4Ex1.jpg",
+        "./img/proj4Ex2.jpg",
+        "./img/proj4Ex3.jpg",
+        "./img/proj4Ex4.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "Random Employee Directory Generator",
+      "description": "Uses a public random personnel generator API to create a mock employee directory. When clicked, a modal window with additional information will display. Search bar filters displayed employees upon submission.",
+      "technologies": [
+        "jQuery",
+        "JavaScript",
+        "Fetch API",
+        "CSS",
+        "HTML"
+      ],
+      "live_link": "https://tottendc.github.io/project5/",
+      "github_link": "https://github.com/TottenDC/project5",
+      "image_urls": [
+        "./img/proj5Main.jpg",
+        "./img/proj5Ex1.jpg",
+        "./img/proj5Ex2.jpg",
+        "./img/proj5Ex3.jpg"
+      ]
+    }
+  ]
+}
