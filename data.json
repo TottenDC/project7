@@ -12,10 +12,10 @@
       "live_link": "https://tottendc.github.io/project1/",
       "github_link": "https://github.com/TottenDC/project1",
       "image_urls": [
-        "./img/proj1Main.jpg",
-        "./img/proj1Ex1.jpg",
-        "./img/proj1Ex2.jpg",
-        "./img/proj1Ex3.jpg"
+        "/static/img/proj1Main.jpg",
+        "/static/img/proj1Ex1.jpg",
+        "/static/img/proj1Ex2.jpg",
+        "/static/img/proj1Ex3.jpg"
       ]
     },
     {
@@ -30,10 +30,10 @@
       "live_link": "https://tottendc.github.io/project2/",
       "github_link": "https://github.com/TottenDC/project2",
       "image_urls": [
-        "./img/proj2Main.jpg",
-        "./img/proj2Ex1.jpg",
-        "./img/proj2Ex2.jpg",
-        "./img/proj2Ex3.jpg"
+        "/static/img/proj2Main.jpg",
+        "/static/img/proj2Ex1.jpg",
+        "/static/img/proj2Ex2.jpg",
+        "/static/img/proj2Ex3.jpg"
       ]
     },
     {
@@ -48,10 +48,10 @@
       "live_link": "https://tottendc.github.io/project3/",
       "github_link": "https://github.com/TottenDC/project3",
       "image_urls": [
-        "./img/proj3Main.jpg",
-        "./img/proj3Ex1.jpg",
-        "./img/proj3Ex2.jpg",
-        "./img/proj3Ex3.jpg"
+        "/static/img/proj3Main.jpg",
+        "/static/img/proj3Ex1.jpg",
+        "/static/img/proj3Ex2.jpg",
+        "/static/img/proj3Ex3.jpg"
       ]
     },
     {
@@ -66,11 +66,11 @@
       "live_link": "https://tottendc.github.io/project4/",
       "github_link": "https://github.com/TottenDC/project4",
       "image_urls": [
-        "./img/proj4Main.jpg",
-        "./img/proj4Ex1.jpg",
-        "./img/proj4Ex2.jpg",
-        "./img/proj4Ex3.jpg",
-        "./img/proj4Ex4.jpg"
+        "/static/img/proj4Main.jpg",
+        "/static/img/proj4Ex1.jpg",
+        "/static/img/proj4Ex2.jpg",
+        "/static/img/proj4Ex3.jpg",
+        "/static/img/proj4Ex4.jpg"
       ]
     },
     {
@@ -87,10 +87,10 @@
       "live_link": "https://tottendc.github.io/project5/",
       "github_link": "https://github.com/TottenDC/project5",
       "image_urls": [
-        "./img/proj5Main.jpg",
-        "./img/proj5Ex1.jpg",
-        "./img/proj5Ex2.jpg",
-        "./img/proj5Ex3.jpg"
+        "/static/img/proj5Main.jpg",
+        "/static/img/proj5Ex1.jpg",
+        "/static/img/proj5Ex2.jpg",
+        "/static/img/proj5Ex3.jpg"
       ]
     }
   ]
