@@ -1,0 +1,13 @@
+extends layout.pug
+
+block content
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  h1= `${error.status} - ${error.message}`
+  p.lead.text-light
+    | Whoops! This site doesn't seem to exist. Please go back to the home page.
+  .photo
+    img(src='/static/img/devIcon.png')
+    .photo-overlay
+      h3 Dev Specifics Below
+  pre= error.stack
