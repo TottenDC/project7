@@ -4,6 +4,7 @@
   "description": "A static site built using Node.js and Express that showcases my coding projects.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
