@@ -21,7 +21,7 @@
     {
       "id": 1,
       "project_name": "Pagination and Filter Exercise",
-      "description": "Utilizes progress enchancement and unobtrusive JavaScript to create a user-friendly directory. Code works with any number of students to generate pages and display 10 at a time. Search bar actively filters students during typing.",
+      "description": "Utilizes progress enchancement and unobtrusive JavaScript to create a user-friendly directory. Code works with any number of students to generate pages that display 10 at a time. Search bar actively filters students during typing.",
       "technologies": [
         "HTML",
         "CSS",
