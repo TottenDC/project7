@@ -19,9 +19,9 @@ block content
           each item in project.technologies
             li= item
 
-
-        a.button.expanded(href=`${project.live_link}`) Live Demo
-        a.button.expanded(href=`${project.github_link}`) GitHub Repo
+        if project.live_link
+          a.button.expanded(href=`${project.live_link}` target='_blank' rel='noopener noreferrer') Live Demo
+        a.button.expanded(href=`${project.github_link}` target='_blank' rel='noopener noreferrer') GitHub Repo
 
     img.image(src=`${project.image_urls[1]}`)
     img.image(src=`${project.image_urls[2]}`)

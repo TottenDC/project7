@@ -3,7 +3,10 @@ const express = require('express');
 const data = require('./data.json');
 const app = express();
 
-/* --- Setup --- */
+/* --- Port setup --- */
+app.set('port', process.env.PORT || 3000);
+
+/* --- Page and Template Setup --- */
 app.use('/static', express.static('public'));
 app.set('view engine', 'pug');
 
@@ -43,4 +46,6 @@ app.use((err, req, res, next)=>{
 });
 
 /* --- Server startup --- */
-app.listen(3000, () => console.log('The app is running on port 3000.'));
+const server = app.listen(app.get('port'), () => {
+  console.log(`Express server is listening on port ${server.address().port}`);
+  });
