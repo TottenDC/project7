@@ -91,6 +91,86 @@
         "/static/img/proj5Ex2.jpg",
         "/static/img/proj5Ex3.jpg"
       ]
+    },
+    {
+      "id": 5,
+      "project_name": "Gallery App using React",
+      "description": "Want to grab the latest images from flickr? This app has 3 pre-set options for searches along with a search bar for whatever else the user wants. 24 images are returned and displayed in a photo gallery with some basic CSS animations.",
+      "technologies": [
+        "JavaScript",
+        "React",
+        "REST API",
+        "CSS"
+      ],
+      "live_link": "https://tottendc-react-gallery.herokuapp.com/",
+      "github_link": "https://github.com/TottenDC/project9",
+      "image_urls": [
+        "/static/img/proj7Main.jpg",
+        "/static/img/proj7Ex1.jpg",
+        "/static/img/proj7Ex2.jpg",
+        "/static/img/proj7Ex3.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "project_name": "Library Book Manager",
+      "description": "Using Express, SQLite, and Sequelize, this project creates a simple web interface that allows the user to create, view, update, and delete books from a database.",
+      "technologies": [
+        "JavaScript",
+        "Express",
+        "Pug",
+        "SQLite",
+        "Sequelize"
+      ],
+      "live_link": "https://tottendc-book-manager.herokuapp.com/",
+      "github_link": "https://github.com/TottenDC/project10",
+      "image_urls": [
+        "/static/img/proj10Main.jpg",
+        "/static/img/proj10Ex1.jpg",
+        "/static/img/proj10Ex2.jpg",
+        "/static/img/proj10Ex3.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "project_name": "Course-Rating API",
+      "description": "Using Express, the project is a RESTful API that employs basic security (via a Basic Auth header and hashing passwords before saving user data) to manage a course-rating application and user creation/ info retrieval.",
+      "technologies": [
+        "JavaScript",
+        "REST API",
+        "MongoDB / Mongoose",
+        "Express",
+        "Pug"
+      ],
+      "github_link": "https://github.com/TottenDC/project11",
+      "image_urls": [
+        "/static/img/proj11Main.jpg",
+        "/static/img/proj11Ex1.jpg",
+        "/static/img/proj11Ex2.jpg",
+        "/static/img/proj11Ex3.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "project_name": "Postcard",
+      "description": "Using a MERN stack, my final project is a fully developed (front- and back-end) site that allows users to grab quick information (travel data, weather, places of interest, and food) for a given location. Basic security, authentication, and session practices are implemented to allow users to register/ sign in to use the app. I built a single-server proxy setup to run the React app, API that processes the data, and routes for handling user interactions such as logging in/ out, registering, and returning user data.",
+      "technologies": [
+        "JavaScript",
+        "React",
+        "REST API",
+        "Bootstrap",
+        "CSS",
+        "MongoDB / Mongoose",
+        "Express"
+      ],
+      "live_link": "https://postcard-app.herokuapp.com/",
+      "github_link": "https://github.com/TottenDC/postcard",
+      "image_urls": [
+        "/static/img/proj12Main.jpg",
+        "/static/img/proj12Ex1.jpg",
+        "/static/img/proj12Ex2.jpg",
+        "/static/img/proj12Ex3.jpg"
+      ]
     }
   ]
 }
