@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/TottenDC/project7#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "pug": "^2.0.3"
   }
 }
